@@ -1,5 +1,5 @@
 ### Let's meet! 👋🙌
-#### 📚🍎Creator of popular science content related to Computer Science | 🎓💻 IT Student at Cracow University of Technology
+#### 📚🍎Creator of popular science content related to Computer Science | 🎓💻 graduate of Computer Science at Cracow University of Technology
 - 👯 I am keen to collaborate on CI/CD projects, with a particular interest in test builds and automation processes
 - 🌱 I am actively enhancing my skills in all aspects of DevOps, with a focus on automation techniques
 - 👯🙋‍♀️ I’m looking to collaborate on projects that will allow me to gain some experience
